@@ -77,7 +77,7 @@ The experimental results on the test set are as follows:
 * **Advanced Algorithms:** Test gradient boosting methods like **XGBoost** or **LightGBM**, which often handle tabular data better than standard Random Forests.
 
 ---
-🙌 Credits
-Dataset: Telco Customer Churn Dataset – Kaggle
-Project created by Sachini Hewahattage
-Master’s in Data Analytics | Machine Learning & NLP
+## 🙌 Credits
+* **Dataset:** [Telco Customer Churn Dataset – Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+* **Project Created by:** Sachini Hewahattage
+* **Profile:** Master’s in Data Analytics | Machine Learning & NLP
