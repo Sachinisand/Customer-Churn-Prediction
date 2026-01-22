@@ -7,7 +7,7 @@ The analysis compares two major classification algorithms: **Logistic Regression
 
 ## 📂 Dataset
 The dataset used is the Telco Customer Churn dataset.
-* **Source:** [Telco Customer Churn on Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) (or specify your specific source if different).
+* **Source:** [Telco Customer Churn on Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) 
 * **Target Variable:** `Churn` (Yes/No).
 * **Key Features:** Tenure, Monthly Charges, Total Charges, Contract Type, Payment Method, Internet Service, etc.
 
