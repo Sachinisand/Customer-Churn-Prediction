@@ -49,9 +49,12 @@ The experimental results on the test set are as follows:
 | Random Forest | Standard | 79.0% | 0.826 |
 | Random Forest | Balanced | 78.9% | 0.825 |
 
+![Churn rate by contract type and tenure](images/churn_drivers.svg)
+
 ### Key Findings
 * **Logistic Regression Performed Best:** Surprisingly, the linear baseline model slightly outperformed the Random Forest models in both Accuracy and AUC.
 * **Balancing Didn't Improve AUC:** The "Balanced" Random Forest approach (`class_weight='balanced'`) yielded nearly identical results to the standard Random Forest. This suggests that simply re-weighting the classes was not sufficient to boost performance for this specific dataset and feature set.
+* **Contract and tenure are the strongest signals:** month-to-month customers churn at 42.7% versus 2.8% on two-year contracts, and customers in their first year churn at 47.4%. Retention offers should target new month-to-month customers.
 * **Imbalanced Data:** The dataset is naturally imbalanced (~73% retain vs ~27% churn). Despite this, the Logistic Regression model proved robust.
 
 ## 🚀 How to Run the Project
