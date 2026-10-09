@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="404" viewBox="0 0 920 404" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="919" height="403" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28" y="40" font-size="19" font-weight="650" fill="#0b0b0b">What drives customer churn</text>
+<text x="28" y="64" font-size="13" fill="#52514e">Share of customers who churned · Telco Customer Churn dataset, 7,043 customers</text>
+<text x="28" y="104" font-size="14" font-weight="600" fill="#0b0b0b">By contract type</text>
+<line x1="62" x2="428" y1="324.0" y2="324.0" stroke="#ecebe7"/>
+<text x="54" y="328.0" font-size="11" fill="#8a8984" text-anchor="end">0%</text>
+<line x1="62" x2="428" y1="286.0" y2="286.0" stroke="#ecebe7"/>
+<text x="54" y="290.0" font-size="11" fill="#8a8984" text-anchor="end">10%</text>
+<line x1="62" x2="428" y1="248.0" y2="248.0" stroke="#ecebe7"/>
+<text x="54" y="252.0" font-size="11" fill="#8a8984" text-anchor="end">20%</text>
+<line x1="62" x2="428" y1="210.0" y2="210.0" stroke="#ecebe7"/>
+<text x="54" y="214.0" font-size="11" fill="#8a8984" text-anchor="end">30%</text>
+<line x1="62" x2="428" y1="172.0" y2="172.0" stroke="#ecebe7"/>
+<text x="54" y="176.0" font-size="11" fill="#8a8984" text-anchor="end">40%</text>
+<line x1="62" x2="428" y1="134.0" y2="134.0" stroke="#ecebe7"/>
+<text x="54" y="138.0" font-size="11" fill="#8a8984" text-anchor="end">50%</text>
+<path d="M103.3,324 V165.7 Q103.3,161.7 107.3,161.7 H155.3 Q159.3,161.7 159.3,165.7 V324 Z" fill="#2a78d6"/>
+<text x="131.3" y="154.7" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">42.7%</text>
+<text x="131.3" y="342" font-size="12" fill="#52514e" text-anchor="middle">Month-to-month</text>
+<path d="M222.0,324 V285.1 Q222.0,281.1 226.0,281.1 H274.0 Q278.0,281.1 278.0,285.1 V324 Z" fill="#2a78d6"/>
+<text x="250.0" y="274.1" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">11.3%</text>
+<text x="250.0" y="342" font-size="12" fill="#52514e" text-anchor="middle">One year</text>
+<path d="M340.7,324 V317.4 Q340.7,313.4 344.7,313.4 H392.7 Q396.7,313.4 396.7,317.4 V324 Z" fill="#2a78d6"/>
+<text x="368.7" y="306.4" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">2.8%</text>
+<text x="368.7" y="342" font-size="12" fill="#52514e" text-anchor="middle">Two year</text>
+<line x1="62" x2="428" y1="223.3" y2="223.3" stroke="#52514e" stroke-dasharray="4 4" stroke-width="1.2"/>
+<text x="428" y="217.3" font-size="11" fill="#52514e" text-anchor="end">Overall 26.5%</text>
+<line x1="62" x2="428" y1="324" y2="324" stroke="#8a8984"/>
+<text x="488" y="104" font-size="14" font-weight="600" fill="#0b0b0b">By tenure (months)</text>
+<line x1="522" x2="892" y1="324.0" y2="324.0" stroke="#ecebe7"/>
+<text x="514" y="328.0" font-size="11" fill="#8a8984" text-anchor="end">0%</text>
+<line x1="522" x2="892" y1="286.0" y2="286.0" stroke="#ecebe7"/>
+<text x="514" y="290.0" font-size="11" fill="#8a8984" text-anchor="end">10%</text>
+<line x1="522" x2="892" y1="248.0" y2="248.0" stroke="#ecebe7"/>
+<text x="514" y="252.0" font-size="11" fill="#8a8984" text-anchor="end">20%</text>
+<line x1="522" x2="892" y1="210.0" y2="210.0" stroke="#ecebe7"/>
+<text x="514" y="214.0" font-size="11" fill="#8a8984" text-anchor="end">30%</text>
+<line x1="522" x2="892" y1="172.0" y2="172.0" stroke="#ecebe7"/>
+<text x="514" y="176.0" font-size="11" fill="#8a8984" text-anchor="end">40%</text>
+<line x1="522" x2="892" y1="134.0" y2="134.0" stroke="#ecebe7"/>
+<text x="514" y="138.0" font-size="11" fill="#8a8984" text-anchor="end">50%</text>
+<path d="M552.2,324 V147.9 Q552.2,143.9 556.2,143.9 H597.8 Q601.8,143.9 601.8,147.9 V324 Z" fill="#2a78d6"/>
+<text x="577.0" y="136.9" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">47.4%</text>
+<text x="577.0" y="342" font-size="12" fill="#52514e" text-anchor="middle">0–12</text>
+<path d="M642.2,324 V218.9 Q642.2,214.9 646.2,214.9 H687.8 Q691.8,214.9 691.8,218.9 V324 Z" fill="#2a78d6"/>
+<text x="667.0" y="207.9" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">28.7%</text>
+<text x="667.0" y="342" font-size="12" fill="#52514e" text-anchor="middle">13–24</text>
+<path d="M732.2,324 V250.5 Q732.2,246.5 736.2,246.5 H777.8 Q781.8,246.5 781.8,250.5 V324 Z" fill="#2a78d6"/>
+<text x="757.0" y="239.5" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">20.4%</text>
+<text x="757.0" y="342" font-size="12" fill="#52514e" text-anchor="middle">25–48</text>
+<path d="M822.2,324 V291.9 Q822.2,287.9 826.2,287.9 H867.8 Q871.8,287.9 871.8,291.9 V324 Z" fill="#2a78d6"/>
+<text x="847.0" y="280.9" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">9.5%</text>
+<text x="847.0" y="342" font-size="12" fill="#52514e" text-anchor="middle">49–72</text>
+<line x1="522" x2="892" y1="223.3" y2="223.3" stroke="#52514e" stroke-dasharray="4 4" stroke-width="1.2"/>
+<text x="892" y="217.3" font-size="11" fill="#52514e" text-anchor="end">Overall 26.5%</text>
+<line x1="522" x2="892" y1="324" y2="324" stroke="#8a8984"/>
+<text x="28" y="386" font-size="12" fill="#8a8984">New customers on month-to-month contracts are the highest-risk group: retention offers should target the first year.</text>
+</svg>
