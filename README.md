@@ -57,8 +57,8 @@ The experimental results on the test set are as follows:
 ## 🚀 How to Run the Project
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/telco-churn-prediction.git](https://github.com/yourusername/telco-churn-prediction.git)
-    cd telco-churn-prediction
+    git clone https://github.com/Sachinisand/Customer-Churn-Prediction.git
+    cd Customer-Churn-Prediction
     ```
 
 2.  **Install dependencies:**
