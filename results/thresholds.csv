@@ -1,0 +1,5 @@
+threshold,flagged_customers,recall_pct,precision_pct
+0.3,543,75.4,51.9
+0.4,440,66.8,56.8
+0.5,319,56.1,65.8
+0.6,209,40.1,71.8

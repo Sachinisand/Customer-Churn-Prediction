@@ -1,0 +1,13 @@
+,coefficient
+tenure,-1.238
+Contract_Two year,-0.819
+InternetService_DSL,-0.702
+MonthlyCharges,-0.595
+OnlineSecurity_No internet service,-0.35
+InternetService_No,-0.35
+StreamingTV_Yes,0.155
+PaymentMethod_Electronic check,0.162
+PaperlessBilling_Yes,0.368
+TotalCharges,0.513
+Contract_Month-to-month,0.53
+InternetService_Fiber optic,0.592
